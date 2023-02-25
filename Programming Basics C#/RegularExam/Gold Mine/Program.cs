@@ -20,9 +20,7 @@
                 }
 
                 if ((tt/dc)>=adg)
-                {
                     Console.WriteLine($"Good job! Average gold per day: {(tt/dc):f2}.");
-                }
                 else
                     Console.WriteLine($"You need {(adg-(tt/dc)):f2} gold.");
 

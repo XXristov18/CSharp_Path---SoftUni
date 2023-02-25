@@ -28,6 +28,5 @@
             Console.WriteLine($"Group 3: {g3} cats.");
             Console.WriteLine($"Price for food per day: {Math.Round(((kgf/1000)*12.45),2)} lv.");
         }
-
     }
 }

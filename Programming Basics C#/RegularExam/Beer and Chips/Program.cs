@@ -27,6 +27,5 @@
                 Console.WriteLine($"{FF} needs {MN:f2} more leva!");
             }
         }
-
     }
 }
