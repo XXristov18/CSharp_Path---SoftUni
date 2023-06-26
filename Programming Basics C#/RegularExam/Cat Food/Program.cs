@@ -1,6 +1,7 @@
 ﻿namespace Cat_Food
 {
     using System;
+
     class Program
     {
         static void Main(string[] args)
